@@ -15,7 +15,7 @@ const page = () => {
           engineer, I thrive on creating innovative solutions and pushing the
           boundaries of web development. With a deep understanding of modern
           technologies and a commitment to continuous learning, I bring a blend
-          of creativity and technical expertise to every project. Let&apos;s build
+          of creativity and technical expertise to every project. Let&apos;s builda
           the future together, one line of code at a time. 🌐💻✨
         </p>
         <p className="leading-6 tracking-wide max-w-[600px] mx-auto">
