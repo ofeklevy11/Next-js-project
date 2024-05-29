@@ -13,7 +13,7 @@ const cardContent = [
       <p>
         🚀 Unlock the true potential of your website with our top-tier SEO
         services. By optimizing your site&apos;s content, structure, and performance,
-        we ensure you climb to the top of search engine rankings. 
+        we ensure you climb to the top of search engine rankings.. 
       </p>
     ),
     description: <FaMagnifyingGlass />,
